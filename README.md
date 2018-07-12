@@ -1,2 +1,2 @@
 # GroceryProductPlacement
-Apriori
+Using Arules package for Apriori
