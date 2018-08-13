@@ -1,5 +1,5 @@
 # GroceryProductPlacement
 
-_Associate rule based learning
-Using Arules package for Apriori
-and Eclat model
+Associate rule based learning:<br/>
+1)Using Arules package for Apriori
+2)and Eclat model
